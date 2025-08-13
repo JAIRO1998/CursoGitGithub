@@ -1,3 +1,5 @@
+# GIT +GITHUB
+
 #### Comandos para inicializar sesión en GIT
 ```js
 'git config --global user.name "userName"' --Se usa para establecer usuario
@@ -61,4 +63,3 @@ Manejo de ramas del repositorio e integración entre ellas
 "git merge <branchName>" --Sirve para integrar los ultimos cambios de una rama especifica dentro de la rama que en la que estas ubicado
 "git branch -m <nombreBranch> <nombreNuevo>" --Sirve para cambiar el nombre de una rama especifica
 ```
-
