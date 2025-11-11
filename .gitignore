@@ -1,0 +1,3 @@
+# Se integra el arvhivo .gitignore con git
+# Ignorar archivo .env
+.env-cmdrc
